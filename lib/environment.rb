@@ -1,4 +1,4 @@
-require "best_coffee_shops/version"
+require_relative "best_coffee_shops/version"
 require "best_coffee_shops/cli"
 
 module BestCoffeeShops

@@ -7,6 +7,9 @@ class BestCoffeeShops::CLI
   def list_shops
   end 
   
+  def get_user_input
+  end 
+  
   def get_shops_info
   end 
   

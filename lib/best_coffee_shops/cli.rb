@@ -1,7 +1,7 @@
 class BestCoffeeShops::CLI 
   
   def call
-    puts "Coffee, coffee, coffee!  Here are Cincinnati's best coffee shops!"
+    puts "Need a jolt?  Here are Cincinnati's best coffee shops!"
   end 
   
   def list_shops

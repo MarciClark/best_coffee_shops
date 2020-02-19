@@ -1,5 +1,5 @@
-require_relative "best_coffee_shops/version"
-require_relative "best_coffee_shops/cli"
+require_relative "./best_coffee_shops/version"
+require_relative "./best_coffee_shops/cli"
 
 require 'pry'
 

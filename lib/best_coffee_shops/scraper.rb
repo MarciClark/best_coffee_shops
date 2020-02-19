@@ -1,0 +1,5 @@
+class BestCoffeeShops::scraper
+  
+  
+  
+end 
